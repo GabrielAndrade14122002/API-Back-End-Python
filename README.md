@@ -25,7 +25,7 @@ Este projeto é uma API RESTful para gerenciamento de usuários, desenvolvida co
 
 ## ⚙️ Como Executar Localmente
 
-### 1. Clone o repositório
+### Clone o repositório
 
 ```bash
 git clone https://github.com/seu-usuario/api-usuarios-fastapi.git
